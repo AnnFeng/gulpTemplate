@@ -1,0 +1,33 @@
+{
+  "name": "1111",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fangjianfeng",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.6",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-cache": "*",
+    "gulp-clean": "*",
+    "gulp-clean-css": "^2.3.2",
+    "gulp-concat": "*",
+    "gulp-imagemin": "*",
+    "gulp-jshint": "*",
+    "gulp-jslint": "*",
+    "gulp-livereload": "*",
+    "gulp-minify-css": "*",
+    "gulp-notify": "^2.2.0",
+    "gulp-rename": "*",
+    "gulp-ruby-sass": "*",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "*",
+    "gulp.spritesmith": "^6.3.0",
+    "imagemin-pngcrush": "*",
+    "imagemin-pngquant": "^5.0.0"
+  }
+}

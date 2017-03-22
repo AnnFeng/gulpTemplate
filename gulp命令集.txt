@@ -1,0 +1,7 @@
+1.npm install 初始化package.json里面所需的插件
+2.npm install -g gulp-clean-css --save-dev 全局安装gulp-clean-css 并将依赖写进package.json文件里面
+3.npm install -g browser-sync  安装 BrowserSync
+4.gulp sass   sass自动执行
+5.npm install -g --save-dev gulp  要在全局中和本地文件夹都装一遍
+6.npm init    创建项目
+7.gulp server 服务器

@@ -1,1 +1,2 @@
 # gulpTemplate
+only gulp template
